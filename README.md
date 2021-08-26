@@ -2,6 +2,10 @@
 
 Display Posts using axios
 
+## Build Badge
+
+[![Node.js CI](https://github.com/cricketbackground/express-posts/actions/workflows/node.js.yml/badge.svg)](https://github.com/cricketbackground/express-posts/actions/workflows/node.js.yml)
+
 ## Using express-generator
 
 This project was bootstrapped with `npx express-generator --view=hbs --css=less --git express-posts`
